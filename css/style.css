@@ -106,6 +106,7 @@ width: 40%;
 .item1 {
 width: 20%;
 height: 50%;
+font-family: "nunito";
 position: absolute;
 margin-left: 10%;
 overflow: hidden;
@@ -120,6 +121,7 @@ border: 2px solid red;
 .item2 {
 width: 20%;
 height: 50%;
+  font-family: "nunito";
 position: absolute;
 margin-left: 40%;
 overflow: hidden;
@@ -134,6 +136,7 @@ border: 2px solid red;
 .item3 {
 width: 20%;
 height: 50%;
+  font-family: "nunito";
 position: absolute;
 margin-left: 70%;
 overflow: hidden;
