@@ -217,6 +217,7 @@ height: 200px;
 width: 100%;
 overflow: hidden;
 margin: auto;
+background-color: gray;
 }
 
 .blogText {
@@ -224,6 +225,7 @@ height: 100%;
 width: 100%;
 text-align: justify;
 margin-top: 250px;
-overflow: hidden;
+overflow: auto;
 margin: auto;
+
 }
